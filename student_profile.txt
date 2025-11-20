@@ -1,0 +1,12 @@
+----------------------------------------
+          STUDENT PROFILE
+----------------------------------------
+Name:            Nisha Kumari
+Roll No:         2501060036
+Course:          BCA(AI AND DS)
+University:      ABC UNIVERSITY
+City:            GURGON
+Age:             18
+Hobby:           Reading books
+----------------------------------------
+Welcome to Python Programming !
